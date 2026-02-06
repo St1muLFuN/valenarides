@@ -1,1 +1,1 @@
-"true:RM1:RM2:SM1:SM2:RAM1:RAM2:LAM1:LAM2:HMR1:HMR2:HML1:HML2"
+"true:RideMotorPart:MainPart:SeatsMotor:CenterSeats:RAM:RP:LAM:LP:HeaderMotorL:UpperPart:HeaderMotorL:UpperPart"
